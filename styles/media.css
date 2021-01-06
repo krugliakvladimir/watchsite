@@ -1,0 +1,306 @@
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 992px) {
+
+#product button {
+
+    width: 100%;
+
+}
+.watch-info ul {
+    width: auto;
+    height: auto;
+}
+.watch-info ul li p {
+    font-size: 12px;
+}
+
+
+h1 {
+    font-size: 26px!important;
+	text-align: center;
+	width: 100%!important;
+
+}	
+	#header{
+		height: auto;
+}
+.logo{
+		width: 200px;
+	}
+	
+	.first-btn{
+	display: none;
+	
+}
+
+
+
+
+.watch-info ul {
+    width: auto;
+    height: auto;
+}
+.watch-info ul li p {
+    font-size: 12px;
+}
+.position-center{
+    position: inherit;
+    margin: 30px 0 0 0 !important;
+}
+.act .container-fluid {
+    background-image: none;
+   
+}
+
+
+ .image {
+    display: none;
+
+ }
+.act .container-fluid {
+    background: url(../img/watchRedMin.png) no-repeat;
+	
+	background-position: right center;
+		background-color: rgba(0, 0, 0, 0.7);
+
+
+}
+
+
+
+
+
+}
+
+@media (max-width: 768px) {
+	h1 {
+    font-size: 26px!important;
+	text-align: center;
+	width: 100%!important;
+
+}	
+	#header{
+		height: auto;
+}
+.logo{
+		width: 200px;
+	}
+	
+	.first-btn{
+	display: none;
+	
+}
+
+
+
+
+.watch-info ul {
+    width: auto;
+    height: auto;
+}
+.watch-info ul li p {
+    font-size: 12px;
+}
+.position-center{
+    position: inherit;
+    margin: 30px 0 0 0 !important;
+}
+
+.act .container-fluid {
+    background: url(../img/watchRedMin.png) no-repeat;
+	
+	background-position: right center;
+		background-color: rgba(0, 0, 0, 0.7);
+
+
+}
+div.clock2, div.clock {
+    max-width: 576px;
+}
+.flip-clock-wrapper ul {
+ 
+    margin: 2px;
+
+}
+#confidence .dov {
+
+    width: auto;
+
+    background-size: cover;
+
+}
+ .image {
+    display: none;
+}
+#property .text h1 {
+    margin: 20px auto;
+}
+#shipping .text h1 {
+    margin: 20px auto;
+}
+#property .text{
+	font-size: 18px;
+}
+#shipping .text{
+	font-size: 18px;
+
+}
+#hold ul li h2, #hold ul li p {
+text-align: center;
+}
+
+#hold ul li img {
+    float:none;
+margin: 0 auto;
+}
+
+элемент {
+
+}
+#confidence .dov {
+
+    background-size: cover;
+
+}
+#confidence .dov {
+	width: 290px;
+
+    height: 196px;
+
+}
+footer .right, footer .left {
+    text-align: center;
+}
+
+
+}
+
+@media (max-width: 576px) {
+
+h1 {
+    font-size: 26px!important;
+	text-align: center;
+	width: 100%!important;
+
+}	
+	#header{
+		height: auto;
+}
+.logo{
+		width: 200px;
+	}
+	
+	.first-btn{
+	display: none;
+	
+}
+
+
+
+
+.watch-info ul {
+    width: auto;
+    height: auto;
+}
+.watch-info ul li p {
+    font-size: 12px;
+}
+.position-center{
+    position: inherit;
+    margin: 30px 0 0 0 !important;
+}
+.act .container-fluid {
+    background-image: none;
+   
+}
+div.clock2, div.clock {
+    max-width: 279px;
+}
+.flip-clock-wrapper ul{
+    font-size: 24px ;
+}
+.flip-clock-wrapper ul li {
+    
+    line-height: 40px;
+}
+.flip-clock-wrapper ul {
+width: 27px;
+height: 40px;
+padding: 2px;
+margin: 2px;
+  
+}
+.flip-clock-divider {
+
+    width: 10px;
+    height: 56px;
+}
+.flip-clock-dot {
+    width: 6px;
+    height: 6px;
+    left: 2px;
+}
+.flip-clock-divider .flip-clock-label {
+
+    right: -52px;
+
+}
+.flip-clock-divider.minutes .flip-clock-label {
+    right: -54px;
+}
+.flip-clock-divider.seconds .flip-clock-label {
+    right: -57px;
+}
+#confidence .dov {
+
+    width: auto;
+
+    background-size: cover;
+
+}
+ .image {
+    display: none;
+}
+#property .text h1 {
+    margin: 20px auto;
+}
+#shipping .text h1 {
+    margin: 20px auto;
+}
+#property .text{
+	font-size: 18px;
+}
+#shipping .text{
+	font-size: 18px;
+
+}
+#hold ul li h2, #hold ul li p {
+text-align: center;
+}
+
+#hold ul li img {
+    float:none;
+margin: 0 auto;
+}
+
+элемент {
+
+}
+#confidence .dov {
+
+    background-size: cover;
+
+}
+#confidence .dov {
+	width: 290px;
+
+    height: 196px;
+
+}
+footer .right, footer .left {
+    text-align: center;
+}
+}
